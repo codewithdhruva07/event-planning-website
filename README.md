@@ -6,7 +6,7 @@ The Event Planning Website is a web-based platform designed to simplify the proc
 
 ## Academic Information
 
-- University: VTU
+- University: CMRIT
 - Department: Artificial Intelligence and Machine Learning
 - Project Type: Group Project
 - Development Approach: Prototype Development using Rocket
